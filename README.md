@@ -21,16 +21,16 @@
 * [Exercise 18: Names, Variables, Code, Functions] (ex18.rb)
 * [Exercise 19: Functions And Variables] (ex19.rb)
 * [Exercise 20: Functions And Files] (ex20.rb)
-* [Exercise 21: Functions Can Return Something]
-* [Exercise 22: What Do You Know So Far?]
-* [Exercise 23: Read Some Code]
-* [Exercise 24: More Practice]
-* [Exercise 25: Even More Practice]
-* [Exercise 26: Congratulations, Take A Test!]
-* [Exercise 27: Memorizing Logic]
-* [Exercise 28: Boolean Practice]
-* [Exercise 29: What If]
-* [Exercise 30: Else And If]
+* [Exercise 21: Functions Can Return Something] (ex21.rb)
+* [Exercise 22: What Do You Know So Far?] (ex22.rb)
+* [Exercise 23: Read Some Code] (ex23.rb)
+* [Exercise 24: More Practice] (ex24.rb)
+* [Exercise 25: Even More Practice] (ex25.rb)
+* [Exercise 26: Congratulations, Take A Test!] (ex26.rb)
+* [Exercise 27: Memorizing Logic] (ex27.rb)
+* [Exercise 28: Boolean Practice] (ex28.rb)
+* [Exercise 29: What If] (ex29.rb)
+* [Exercise 30: Else And If] (ex30.rb)
 * [Exercise 31: Making Decisions]
 * [Exercise 32: Loops And Arrays]
 * [Exercise 33: While Loops]
