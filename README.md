@@ -31,9 +31,9 @@
 * [Exercise 28: Boolean Practice] (ex28.rb)
 * [Exercise 29: What If] (ex29.rb)
 * [Exercise 30: Else And If] (ex30.rb)
-* [Exercise 31: Making Decisions]
-* [Exercise 32: Loops And Arrays]
-* [Exercise 33: While Loops]
+* [Exercise 31: Making Decisions] (ex31.rb)
+* [Exercise 32: Loops And Arrays] (ex32.rb)
+* [Exercise 33: While Loops] (ex33.rb)
 * [Exercise 34: Accessing Elements Of Arrays]
 * [Exercise 35: Branches and Functions]
 * [Exercise 36: Designing and Debugging]
