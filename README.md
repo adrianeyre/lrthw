@@ -34,10 +34,10 @@
 * [Exercise 31: Making Decisions] (ex31.rb)
 * [Exercise 32: Loops And Arrays] (ex32.rb)
 * [Exercise 33: While Loops] (ex33.rb)
-* [Exercise 34: Accessing Elements Of Arrays]
-* [Exercise 35: Branches and Functions]
-* [Exercise 36: Designing and Debugging]
-* [Exercise 37: Symbol Review]
-* [Exercise 38: Doing Things To Arrays]
-* [Exercise 39: Dictionaries, Oh Lovely Dictionaries]
-* [Exercise 40: Modules, Classes, And Objects]
+* [Exercise 34: Accessing Elements Of Arrays] (ex34.rb)
+* [Exercise 35: Branches and Functions] (ex35.rb)
+* [Exercise 36: Designing and Debugging] (ex36.rb)
+* [Exercise 37: Symbol Review] (ex37.rb)
+* [Exercise 38: Doing Things To Arrays] (ex38.rb)
+* [Exercise 39: Dictionaries, Oh Lovely Dictionaries] (ex39.rb)
+* [Exercise 40: Modules, Classes, And Objects] (ex40.rb)
